@@ -93,9 +93,10 @@
 
     <div class="simple-page-footer">
         <p><a href="{{ route('password.request') }}">¿Olvidaste tu contraseña?</a></p>
-    </div><!-- .simple-page-footer -->
-
-
+    </div ><!-- .simple-page-footer -->
+    <hr style="border-color: white">
+    <p style="color: white"><b>nombre</b> Freddy Mamani Valencia </p>
+    <p style="color: white"><b>ci</b> 6908916</p>
 </div><!-- .simple-page-wrap -->
 </body>
 </html>

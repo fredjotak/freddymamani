@@ -381,3 +381,12 @@
 
     </main>
 @endsection
+
+<div style="margin-left: auto; margin-right: auto;position: absolute; bottom: 10px; width: calc(100vw - 20px); height: 70px; background: rgba(0, 0, 0, .75); color: white; display: flex; flex-direction: column; justify-content: center; align-items: center;" >
+    <div style="margin-top: 10px">
+        <p><b>Nombre: </b> Freddy Mamani Valencia</p>
+    </div>
+    <div style="margin-bottom: 10px">
+        <p><b>CI: </b> 6908916</p>
+    </div>
+</div>
